@@ -5,4 +5,4 @@ A jupyter notebook that implements text clustering with unsupervised learning us
 * pandas
 * numpy
 * nltk
-* scikit-learn
+* sklearn
